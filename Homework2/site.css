@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+
+button {background-color: #e7e7e7; color: black;} /* Gray */
+
+#ChangedWords {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size:40px;
+  }
+  #grad {
+  height:200px;
+    background-color: rgb(255, 217, 0);
+    background-image: linear-gradient(to right, rgb(0, 4, 255) , yellow);
+  }
